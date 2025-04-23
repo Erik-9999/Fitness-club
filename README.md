@@ -167,15 +167,16 @@ Le frontend utilise des formulaires pour envoyer des requêtes à ces API et aff
 
 ### Technologies utilisées
 
-
  - PHP : Langage de programmation pour la logique du backend.
-
+ 
  - Slim Framework : Micro-framework PHP pour la gestion des routes et des requêtes.
 
+ - Twig : Moteur de templates pour les vues
+ 
  - MySQL/MariaDB : Base de données relationnelle pour stocker les utilisateurs, les séances et les réservations.
 
-- HTML/CSS/JavaScript : Pour la partie frontend (utilisation de templates simples avec Bootstrap).
-
-- Composer : Outil pour la gestion des dépendances PHP.
-
-
+ - HTML/CSS/JavaScript : Pour la partie frontend (utilisation de templates simples avec Bootstrap).
+ 
+ - Bootstrap  : Pour une interface responsive
+ 
+ - Composer : Outil pour la gestion des dépendances PHP.
