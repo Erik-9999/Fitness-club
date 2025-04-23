@@ -61,7 +61,6 @@ See the [User Documentation](https://slim-sim.netlify.app/) for more details.
 
 You using 1.x version ? See this [User Documentation](https://slim-sim-v1.netlify.app/).
 
-**********************************************************************************************************************************************************************************************************************************
 # Fitness Club
 
 Le projet **Fitness Club** est une application de gestion de salle de sport, développée avec **PHP** et le framework **Slim**. Il permet aux **utilisateurs connectés** de réserver des créneaux pour profiter de divers services comme des séances de musculation, de squats, etc. Le **dashboard d'administration** permet aux administrateurs de gérer les séances, les salles de sport et les utilisateurs.
