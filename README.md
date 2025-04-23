@@ -60,3 +60,27 @@ Allow the `storage` folder to write to the web server side.
 See the [User Documentation](https://slim-sim.netlify.app/) for more details.
 
 You using 1.x version ? See this [User Documentation](https://slim-sim-v1.netlify.app/).
+
+**********************************************************************************************************************************************************************************************************************************
+# Fitness Club
+
+Le projet **Fitness Club** est une application de gestion de salle de sport, développée avec **PHP** et le framework **Slim**. Il permet aux **utilisateurs connectés** de réserver des créneaux pour profiter de divers services comme des séances de musculation, de squats, etc. Le **dashboard d'administration** permet aux administrateurs de gérer les séances, les salles de sport et les utilisateurs.
+
+## 📦 Prérequis
+
+Avant de commencer, assurez-vous d'avoir les éléments suivants installés sur votre machine :
+
+- **PHP** (version 7.4 ou supérieure)
+- **Composer** : Gestionnaire de dépendances PHP
+- Serveur Web (ex: **Apache** ou **Nginx**) avec **PHP-FPM**
+- **MySQL** ou **MariaDB** pour la base de données
+
+## 🚀 Installation
+
+Clonez ce dépôt et installez les dépendances :
+
+```bash
+git clone https://github.com/Erik-9999/Fitness-club.git
+cd Fitness-club
+composer install
+
