@@ -165,26 +165,17 @@ POST /api/admin/deplacer_creneau : Déplacer un créneau de séance (admin)
 ##  Collaboration avec le Frontend
 Le frontend utilise des formulaires pour envoyer des requêtes à ces API et afficher les données dans une interface réactive et conviviale. Assurez-vous que l'API backend est en fonctionnement avant d'utiliser le frontend.
 
-🔧 Technologies utilisées
-PHP : Langage de programmation pour la logique du backend.
+### Technologies utilisées
 
-Slim Framework : Micro-framework PHP pour la gestion des routes et des requêtes.
 
-MySQL/MariaDB : Base de données relationnelle pour stocker les utilisateurs, les séances et les réservations.
+ - PHP : Langage de programmation pour la logique du backend.
 
-HTML/CSS/JavaScript : Pour la partie frontend (utilisation de templates simples avec Bootstrap).
+ - Slim Framework : Micro-framework PHP pour la gestion des routes et des requêtes.
 
-Composer : Outil pour la gestion des dépendances PHP.
+ - MySQL/MariaDB : Base de données relationnelle pour stocker les utilisateurs, les séances et les réservations.
 
-📋 Contribuer
-Si vous souhaitez contribuer à ce projet, vous pouvez :
+- HTML/CSS/JavaScript : Pour la partie frontend (utilisation de templates simples avec Bootstrap).
 
-Fork ce dépôt.
+- Composer : Outil pour la gestion des dépendances PHP.
 
-Créez une branche (git checkout -b feature/ma-nouvelle-fonctionnalité).
 
-Commit vos changements (git commit -am 'Ajout d’une nouvelle fonctionnalité').
-
-Poussez la branche (git push origin feature/ma-nouvelle-fonctionnalité).
-
-Ouvrez une pull request.
