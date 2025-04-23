@@ -120,25 +120,25 @@ http://localhost:8000
 
 ## Fonctionnalités
 
-```bash
-Utilisateurs (Clients) :
-Inscription / Connexion : Les clients peuvent créer un compte et se connecter.
 
-Réservation de créneaux : Les clients peuvent réserver des créneaux pour des séances de sport.
+### Utilisateurs (Clients) :
+ - Inscription / Connexion : Les clients peuvent créer un compte et se connecter.
 
-Consultation du planning : Visualisation des horaires des différentes séances disponibles.
+ - Réservation de créneaux : Les clients peuvent réserver des créneaux pour des séances de sport.
 
-Administrateurs :
-Dashboard : Une interface d'administration pour gérer l'application.
+ - Consultation du planning : Visualisation des horaires des différentes séances disponibles.
 
-Gestion des séances : Ajouter, modifier, supprimer des séances de sport (musculation, squats, etc.).
+### Administrateurs :
+ - Dashboard : Une interface d'administration pour gérer l'application.
 
-Gestion des salles : Créer et modifier les salles de sport.
+ - Gestion des séances : Ajouter, modifier, supprimer des séances de sport (musculation, squats, etc.).
 
-Gestion des utilisateurs : Ajouter, modifier ou supprimer des utilisateurs.
+ - Gestion des salles : Créer et modifier les salles de sport.
 
-Déplacement des créneaux : Déplacer les créneaux de réservation des clients.
-````
+ - Gestion des utilisateurs : Ajouter, modifier ou supprimer des utilisateurs.
+
+ - Déplacement des créneaux : Déplacer les créneaux de réservation des clients.
+
 
 ## API Endpoints
 
