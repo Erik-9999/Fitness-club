@@ -1,3 +1,5 @@
+## Projet Fin Etude CNAM
+
 [Rapport projet Musquash.pdf](https://github.com/H-Erik2021/Fitness-club/files/9676112/Rapport.projet.Musquash.pdf)
 [![version](https://img.shields.io/badge/Version-2.1.2-brightgreen.svg)](https://github.com/SimonDevelop/slim-sim/releases/tag/2.1.2)
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%207.2-8892BF.svg)](https://php.net/)
